@@ -3,6 +3,7 @@ license: apache-2.0
 tags:
 - MerlynMind
 - education
+inference: false
 ---
 
 # Merlyn-education-teacher-assistant

@@ -26,7 +26,7 @@ Apache-2.0
 
 ## Documentation
 
-* [Merlyn Mind’s education-specific language models](https://www.merlyn.org/)
+* [Merlyn Mind’s education-specific language models](https://www.merlyn.org/blog/merlyn-minds-education-specific-language-models)
 
 ## Usage
 
@@ -95,7 +95,7 @@ To cite this model, please use:
     author    = {Merlyn Mind AI Team},
     title     = {Merlyn Mind's education-domain language models},
     year      = {2023},
-    url       = {merlyn.org},
+    url       = {https://www.merlyn.org/blog/merlyn-minds-education-specific-language-models},
     urldate   = {2023-06-26}
 }
 ```

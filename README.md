@@ -30,6 +30,8 @@ Apache-2.0
 
 ## Usage
 
+At full precision the model needs > 48G GPU memory. If you're running on smaller GPUs, you need an instance with multiple GPUs and/or reduced model precision (e.g. use `model.half()`)
+
 Loading model and tokenizer:
 
 ```python
